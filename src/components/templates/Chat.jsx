@@ -29,6 +29,7 @@ const Chat = () => {
   const [roomNum, setroomNum] = React.useState('');
   const [Data, setData] = React.useState({});
   const [EmitData, SetEmitData] = React.useState({});
+
   const IP = IPadress();
   const devTarget = `${IP}/ws-stomp`;
   const TOKEN = getCookie('authorization');
@@ -157,7 +158,6 @@ const Chat = () => {
     return () => {
       dispatch(ChatAction.resetList());
       dispatch(ChatAction.ms_resetList());
-      SetEnter(false);
       BackHistory();
     };
   }, []);

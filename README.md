@@ -31,8 +31,9 @@ Notion URL : https://marvelous-rhinoceros-ebb.notion.site/MBTI-BIZ-Chemy-a8e0213
 
 https://youtu.be/EPN0XdvE8NE<br>
 
-<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F960c99b4-7005-4dcb-b3e1-2f2608e476cc%2F1.png?table=block&id=6c6cc023-84ea-43ff-8c1e-c2ab2bd80ca6&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2">
-<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdafb9e69-0d43-4c75-b593-b9fda87e1173%2F3.png?table=block&id=71223f6d-d321-4360-8cad-92494d3c0afb&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2">
+<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F960c99b4-7005-4dcb-b3e1-2f2608e476cc%2F1.png?table=block&id=6c6cc023-84ea-43ff-8c1e-c2ab2bd80ca6&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2"/>
+
+<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdafb9e69-0d43-4c75-b593-b9fda87e1173%2F3.png?table=block&id=71223f6d-d321-4360-8cad-92494d3c0afb&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2"/>
 
 ## 🧑🏼‍💻 개발기간 및 팀원소개
 
@@ -42,27 +43,28 @@ https://youtu.be/EPN0XdvE8NE<br>
 
 ### Front-end
 
-   <p><a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=최주영&color=61dafb&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=최주영&color=61dafb&style=for-the-badge&>"/></a>
 
-   <p><a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=정연재&color=61dafb&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/jeongyeon9254" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=정연재&color=61dafb&style=for-the-badge&>"/></a>
 
-   <p><a href="https://github.com/seokjun2021" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=윤석준&color=61dafb&style=for-the-badge&>"/></a></p>
-   </br>
-  
+<a href="https://github.com/seokjun2021" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=윤석준&color=61dafb&style=for-the-badge&>"/></a>
+</br>
+
 ### Back-end
-  <p><a href="https://github.com/good4y" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김영철&color=98C621&style=for-the-badge&>"/></a></p>
 
-   <p><a href="https://github.com/bellpro" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김종욱&color=98C621&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/good4y" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김영철&color=98C621&style=for-the-badge&>"/></a>
 
-   <p><a href="https://github.com/sixthh-sense" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=성해인&color=98C621&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/bellpro" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김종욱&color=98C621&style=for-the-badge&>"/></a>
+
+<a href="https://github.com/sixthh-sense" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=성해인&color=98C621&style=for-the-badge&>"/></a>
 
 </br>
 
 ### Designer
 
-  <p><a href="https://www.instagram.com/leeje_design/" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이정은&color=931FC1&style=for-the-badge&>"/></a></p>
-  
-  <p><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이송희&color=931FC1&style=for-the-badge&>"/></p>
+<a href="https://www.instagram.com/leeje_design/" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이정은&color=931FC1&style=for-the-badge&>"/></a>
+
+  <img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이송희&color=931FC1&style=for-the-badge&>"/>
 
 </br>
 
