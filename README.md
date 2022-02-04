@@ -31,8 +31,9 @@ Notion URL : https://marvelous-rhinoceros-ebb.notion.site/MBTI-BIZ-Chemy-a8e0213
 
 https://youtu.be/EPN0XdvE8NE<br>
 
-<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F960c99b4-7005-4dcb-b3e1-2f2608e476cc%2F1.png?table=block&id=6c6cc023-84ea-43ff-8c1e-c2ab2bd80ca6&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2">
-<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdafb9e69-0d43-4c75-b593-b9fda87e1173%2F3.png?table=block&id=71223f6d-d321-4360-8cad-92494d3c0afb&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2">
+<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F960c99b4-7005-4dcb-b3e1-2f2608e476cc%2F1.png?table=block&id=6c6cc023-84ea-43ff-8c1e-c2ab2bd80ca6&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2"/>
+
+<img width="300px"  src="https://marvelous-rhinoceros-ebb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdafb9e69-0d43-4c75-b593-b9fda87e1173%2F3.png?table=block&id=71223f6d-d321-4360-8cad-92494d3c0afb&spaceId=edc55e63-e37f-4d77-a2bf-ea067b707e09&width=2000&userId=&cache=v2"/>
 
 ## 🧑🏼‍💻 개발기간 및 팀원소개
 
@@ -42,27 +43,28 @@ https://youtu.be/EPN0XdvE8NE<br>
 
 ### Front-end
 
-   <p><a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=최주영&color=61dafb&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=최주영&color=61dafb&style=for-the-badge&>"/></a>
 
-   <p><a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=정연재&color=61dafb&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/jeongyeon9254" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=정연재&color=61dafb&style=for-the-badge&>"/></a>
 
-   <p><a href="https://github.com/seokjun2021" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=윤석준&color=61dafb&style=for-the-badge&>"/></a></p>
-   </br>
-  
+<a href="https://github.com/seokjun2021" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=윤석준&color=61dafb&style=for-the-badge&>"/></a>
+</br>
+
 ### Back-end
-  <p><a href="https://github.com/good4y" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김영철&color=98C621&style=for-the-badge&>"/></a></p>
 
-   <p><a href="https://github.com/bellpro" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김종욱&color=98C621&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/good4y" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김영철&color=98C621&style=for-the-badge&>"/></a>
 
-   <p><a href="https://github.com/sixthh-sense" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=성해인&color=98C621&style=for-the-badge&>"/></a></p>
+<a href="https://github.com/bellpro" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김종욱&color=98C621&style=for-the-badge&>"/></a>
+
+<a href="https://github.com/sixthh-sense" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=성해인&color=98C621&style=for-the-badge&>"/></a>
 
 </br>
 
 ### Designer
 
-  <p><a href="https://www.instagram.com/leeje_design/" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이정은&color=931FC1&style=for-the-badge&>"/></a></p>
-  
-  <p><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이송희&color=931FC1&style=for-the-badge&>"/></p>
+<a href="https://www.instagram.com/leeje_design/" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이정은&color=931FC1&style=for-the-badge&>"/></a>
+
+  <img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이송희&color=931FC1&style=for-the-badge&>"/>
 
 </br>
 
@@ -102,6 +104,7 @@ https://youtu.be/EPN0XdvE8NE<br>
 과정이 순탄하지는 않았지만 다들 너무너무 수고가 많았습니다 부족했지만 끝까지 함께해준 팀원들이 있어 마지막 까지 올 수 있었습니다 많이 반성하고 많이 배웠습니다 4기 9조 마지막까지 화이팅입니다!!!!!!!
 
 <br>
+<br>
 <code>정연재</code><br>
 이번 프로젝트를 통하여 협업이 어떤식으로 이루어지는지 간략하게 체험할수 있었고,
 MVP모델을 개발하며 실제로 서비스 되어야 하는 부분에대해 생각을 해보니
@@ -109,18 +112,22 @@ MVP모델을 개발하며 실제로 서비스 되어야 하는 부분에대해 �
 해당부분에서 배웠던점을 발판삼아 좋은 개발자가 되기위해 노력하겠습니다.
 
 <br>
+<br>
 <code>윤석준</code><br>
 프로젝트 완성 및 서비스 런칭을 하기 위해 여러 시행착오를 거치는 과정을 통해 개발 실력이 올라갈 뿐만 아니라 협업하는 과정과 서비스 운영을 직접 해보면서 더 나은 개발자가 되기 위해 한걸음 나아갈 수 있는 좋은 기회였습니다.
+<br>
 <br>
 <code>김영철</code><br>
 6주동안 다같이 고생했는데 시간 가는 줄 몰랐습니다. 각자 자기가 맡은 바 열심히 했고 협업에 대해서도 많이 배울 수 있어서 좋았습니다.
 
+<br>
 <br>
 <code>김종욱</code><br>
 실전 프로젝트를 통해 프론트엔드, 백엔드, 디자이너와의 협업을 통해 프로젝트가 완성되는 경험을 할 수 있었고,
 실제 서비스를 런칭 하면서 사용자 피드백 및 오류를 해결하는 방법을 배울 수 있었습니다.
 또한 6주간의 팀원들과 협업하면서 배운 내용을 통해 꾸준히 성장하는 개발자가 되도록 노력하겠습니다.
 
+<br>
 <br>
 <code>성해인</code><br>
 팀 프로젝트를 진행하고 있을 때는 최선에 가까운 결정을 해왔다고 생각했었지만,
