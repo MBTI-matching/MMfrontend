@@ -43,28 +43,38 @@ https://youtu.be/EPN0XdvE8NE<br>
 
 ### Front-end
 
-<a href="https://github.com/cwd3469" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=최주영&color=61dafb&style=for-the-badge&>"/></a>
+</br>
+<a href="https://github.com/cwd3469" target="_blank">REACT 최주영</a>
 
-<a href="https://github.com/jeongyeon9254" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=정연재&color=61dafb&style=for-the-badge&>"/></a>
+</br>
+<a href="https://github.com/jeongyeon9254" target="_blank">REACT 정연재</a>
 
-<a href="https://github.com/seokjun2021" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=React&message=윤석준&color=61dafb&style=for-the-badge&>"/></a>
+</br>
+
+<a href="https://github.com/seokjun2021" target="_blank">REACT 윤석준</a>
+
 </br>
 
 ### Back-end
 
-<a href="https://github.com/good4y" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김영철&color=98C621&style=for-the-badge&>"/></a>
+</br>
+<a href="https://github.com/good4y" target="_blank">SPRING 김영철</a>
 
-<a href="https://github.com/bellpro" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=김종욱&color=98C621&style=for-the-badge&>"/></a>
+</br>
+<a href="https://github.com/bellpro" target="_blank">SPRING 김종욱</a>
 
-<a href="https://github.com/sixthh-sense" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=성해인&color=98C621&style=for-the-badge&>"/></a>
+</br>
+<a href="https://github.com/sixthh-sense" target="_blank">SPRING 성해인</a>
 
 </br>
 
 ### Designer
 
-<a href="https://www.instagram.com/leeje_design/" target="_blank"><img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이정은&color=931FC1&style=for-the-badge&>"/></a>
+</br>
 
-  <img width="150"  src="https://img.shields.io/static/v1?label=Node.js&message=이송희&color=931FC1&style=for-the-badge&>"/>
+<a href="https://www.instagram.com/leeje_design/" target="_blank">디자인 이정은</a>
+
+<a>디자인 이송희</a>
 
 </br>
 
