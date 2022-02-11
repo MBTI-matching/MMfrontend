@@ -31,7 +31,7 @@ function Bg() {
               <NormalTi>BIZ Chemy를 통해 여러분과 잘 맞는 친구를 찾아보세요!</NormalTi>
               <NormalTi>친구와의 소통을 통해 한층 즐거운 스스로를 발견할 수 있을거에요.</NormalTi>
             </Grid>
-            <FeedbackBtn onClick={GoFeedback}>설문조사하고 선물 받기</FeedbackBtn>
+            {/* <FeedbackBtn onClick={GoFeedback}>설문조사하고 선물 받기</FeedbackBtn> */}
             {/* <FeedbackBtn onClick={ClickDownload}>앱 다운로드</FeedbackBtn> */}
           </Grid>
         </Grid>

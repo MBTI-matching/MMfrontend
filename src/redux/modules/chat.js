@@ -89,7 +89,9 @@ const getRecentlyMsListDB = (roomId, page) => {
       dispatch(LoadChatting(res.data, page));
       console.log(res);
       dispatch(ms_loadingList());
-      dispatch(total_number(res.data === [] ? 0 : res.data[0].totalMessage));
+      if (res.data[0].totalMessage) {
+        dispatch(total_number(res.data === [] ? 0 : res.data[0].totalMessage));
+      }
       dispatch(now_number(res.data.length));
     } catch (e) {
       console.log(e);
@@ -127,7 +129,7 @@ const putChatroomDB = roomId => {
   };
 };
 
-// 채팅방 나가기
+// 채팅방 삭제
 const deleteChatroomDB = roomId => {
   return async function (dispatch, getState, { history }) {
     await deleteChatroom(roomId);
