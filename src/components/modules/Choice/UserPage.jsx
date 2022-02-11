@@ -1,37 +1,25 @@
 import React from 'react';
 import styled from 'styled-components';
+
 import Header from '../layout/Header';
-import { Grid } from '../../element';
-import { UserBox, UserPre, UserButton } from './index';
 import { useSelector, useDispatch } from 'react-redux';
 import { actionCreators as profileAction } from '../../../redux/modules/profile';
+import { UserInfoPage, UserButton } from './index';
 
-const UserPage = props => {
+const UserPage = () => {
   const dispatch = useDispatch();
-  const { Boo, _onClick } = props;
-  const { partnerId } = props.data;
+  const ListHeadClick = () => {
+    dispatch(profileAction.resetAction());
+  };
+  const loading = useSelector(state => state.profile.loading);
   const hostInfo = useSelector(state => state.profile.list);
-
-  React.useEffect(() => {
-    if (partnerId) {
-      dispatch(profileAction.getProfileDB(partnerId));
-    }
-  }, [partnerId]);
-
   return (
-    <PageShadows className={Boo ? 'open' : ''}>
-      <Header point="absolute" Page _onClick={_onClick}>
+    <PageShadows className={loading ? 'open' : ''}>
+      <Header point="absolute" Page _onClick={ListHeadClick}>
         {hostInfo.nickname}
       </Header>
-      <Grid padding="18px 30px" gap="19px">
-        <UserBox data={hostInfo} />
-        <UserPre
-          nickname={hostInfo.nickname}
-          profileImg={hostInfo.profileImage}
-          mbti={hostInfo.mbti}
-        />
-      </Grid>
-      <UserButton hostInfo={hostInfo} _onClick={_onClick} />
+      <UserInfoPage></UserInfoPage>
+      <UserButton />
     </PageShadows>
   );
 };

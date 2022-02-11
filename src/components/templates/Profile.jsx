@@ -79,6 +79,9 @@ const Profile = () => {
     setLoading(true);
     await getMatchingDB().then(res => {
       setTimeout(function () {
+        dispatch(matchingActions.resetAction());
+        dispatch(profileActions.resetAction());
+        dispatch(ChatAction.resetList());
         history.replace(`/profile/fast/${res.data.userId}`);
         setLoading(false);
       }, 1500);

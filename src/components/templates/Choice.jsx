@@ -12,22 +12,20 @@ import { history } from '../../redux/configureStore';
 const Choice = () => {
   const dispatch = useDispatch();
 
-  React.useEffect(() => {
-    dispatch(MatchingAction.getMatchingListCheckDB());
-  }, []);
-
   const SendList = useSelector(state => state.matching.ListSend);
   const ReceiveList = useSelector(state => state.matching.ListReceive);
+
   const [open, setOpen] = React.useState(true);
   const [open2, setOpen2] = React.useState(true);
-  const [Paging, setPaging] = React.useState(false);
-  const [Data, setData] = React.useState({});
 
-  const ListHeadClick = () => {
-    setPaging(!Paging);
-    setData({});
-    dispatch(profileAction.resetAction());
-  };
+  React.useEffect(() => {
+    dispatch(MatchingAction.getMatchingListCheckDB());
+    return () => {
+      dispatch(MatchingAction.resetAction());
+      dispatch(profileAction.resetAction());
+    };
+  }, []);
+
   return (
     <div>
       <Header>요청 목록</Header>
@@ -46,9 +44,7 @@ const Choice = () => {
                   return (
                     <Listfrom
                       OnClick={e => {
-                        //api 요청 보내면서 유저 정보를 가지고 온다. redux에 저장 해서 userBox에서 가지고 온다.
-                        setPaging(!Paging);
-                        setData(x);
+                        dispatch(profileAction.getProfileDB(x.partnerId));
                       }}
                       data={x}
                       key={idx}
@@ -81,8 +77,7 @@ const Choice = () => {
           </Boad>
         </Grid>
       </ScrollBox>
-
-      <UserPage Boo={Paging} data={Data !== {} ? Data : ''} _onClick={ListHeadClick}></UserPage>
+      <UserPage></UserPage>
       <Footer />
     </div>
   );

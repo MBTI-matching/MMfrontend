@@ -1,12 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Button } from '../../element';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { actionCreators as ChatAction } from '../../../redux/modules/chat';
 import { actionCreators as matchingAction } from '../../../redux/modules/matching';
+import { actionCreators as profileAction } from '../../../redux/modules/profile';
 
-function UserButton(props) {
-  const { hostInfo, _onClick } = props;
+function UserButton() {
+  const hostInfo = useSelector(state => state.profile.list);
   const dispatch = useDispatch();
 
   const guestInfo = {
@@ -18,11 +19,12 @@ function UserButton(props) {
 
   const ClickRefusal = () => {
     dispatch(matchingAction.deleteMatchingChatDB(hostInfo.userId));
-    _onClick();
+    dispatch(profileAction.resetAction());
   };
 
   const ClickAccept = () => {
     dispatch(ChatAction.postChatRoomListDB(guestInfo, hostInfo.userId));
+    dispatch(profileAction.resetAction());
   };
   return (
     <Fiexd>
