@@ -51,6 +51,7 @@ const initialState = {
 const postChatRoomListDB = (guestInfo, hostId) => {
   return async function (dispatch, getState, { history }) {
     try {
+      console.log(guestInfo);
       await postChatRoomList(guestInfo);
       dispatch(matchingAction.PutMatchingList(hostId));
       history.push('/chat');

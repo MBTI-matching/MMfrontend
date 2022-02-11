@@ -33,7 +33,7 @@ function UserBox(props) {
                 <Name>{nickname}</Name>
                 <Grid align="center" width="auto" row gap="2px">
                   <img src={fmd_good} alt={location} />
-                  <Date>서울특별시 {location}</Date>
+                  <Date> {location}</Date>
                 </Grid>
                 <Grid row gap="7px">
                   <img
