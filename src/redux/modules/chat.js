@@ -51,7 +51,6 @@ const initialState = {
 const postChatRoomListDB = (guestInfo, hostId) => {
   return async function (dispatch, getState, { history }) {
     try {
-      console.log(guestInfo);
       await postChatRoomList(guestInfo);
       dispatch(matchingAction.PutMatchingList(hostId));
       history.push('/chat');
@@ -88,7 +87,7 @@ const getRecentlyMsListDB = (roomId, page) => {
     try {
       const res = await getChatMsList(roomId, page);
       dispatch(LoadChatting(res.data, page));
-      console.log(res);
+
       dispatch(ms_loadingList());
       if (res.data[0].totalMessage) {
         dispatch(total_number(res.data === [] ? 0 : res.data[0].totalMessage));
