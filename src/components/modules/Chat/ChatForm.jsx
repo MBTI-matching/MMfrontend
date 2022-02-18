@@ -49,7 +49,6 @@ const ChatForm = props => {
       setTimeout(() => {
         dispatch(ChatAction.deleteChatroomDB(Id));
         SetmodalOpen(true);
-        console.log('deleteChatroomDB', Id);
       }, 0.1);
     } catch (e) {
       console.log(e);
@@ -63,7 +62,6 @@ const ChatForm = props => {
       setTimeout(() => {
         dispatch(ChatAction.putChatroomDB(Id));
         SetmodalOpen(true);
-        console.log('putChatroomDB', Id);
       }, 0.1);
     } catch (e) {
       console.log(e);
